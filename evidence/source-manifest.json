@@ -1,0 +1,16 @@
+{
+  ".gitignore": "9b58848d6b86ddfc5d6d29f6b1bfb0e00033ee696c0bee5240189ff97cb39d49",
+  "AGENTS.md": "715883614cfb76e34b3c4a041b44fb4b40cc2a51505ddeecee686954fd510e98",
+  "Agriculture & AgTech/README.md": "54608c5e2a590177b2ebe11966702fb4a42fd6d34d71e887b468ccb182f92653",
+  "CONTRIBUTING.md": "bdb967534cc379bd1980b80c04bef19f3e4700ce96691e959a3f2fabd717cf88",
+  "Education (EdTech & Academia)/README.md": "9f7a1217e18c5c763f9c7b6477ebac0e241b9cbdbde3bdbf57df67b808fd21f7",
+  "INDUSTRY-PORTFOLIO.md": "34bc40c45251ea439544ea1513b5d2646050e79867e4c1827eb695bc55edd469",
+  "LICENSE": "4df23e737915f9b62c5430b633e6b74104f5c9f9f154cc93e9fe89318f84b5b0",
+  "Public Sector & Government/README.md": "9f902566441714a0119ad93464c562fe4caccf92720e3f4593a6ad57b0b651f0",
+  "README.md": "b72b4e2408d0a81663d8ef33f8139bfb9ccd438fe80e6e7eef7400dd679de41a",
+  "SECURITY.md": "660145df75390defa74061bdadde1c6c18d5757987e1ef9b7bef2c2d6e14af91",
+  "Transportation & Logistics/README.md": "3afcd68d2e0b3f05e2b17ce0fe16d70dec1e99ebe871a81baf080e06c0e84160",
+  "catalog/industry.json": "9fe614d6bd451866ef727e56b354676c8092d281c533506a49f8e08e0c628e52",
+  "tools/README.md": "2c3ac914d805a17e7c33c0483fa51730224a1fc8b268f298e8b9181de1c2e12b",
+  "tools/check_catalog.py": "7622855182148aa4d09231281ee93da90973e41cc879d770e8b930ec30a4cf70"
+}

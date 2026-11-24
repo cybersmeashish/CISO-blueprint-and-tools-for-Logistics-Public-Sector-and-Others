@@ -1,0 +1,29 @@
+{
+  "id": 7,
+  "title": "Logistics, Public Sector & Others",
+  "slug": "CISO-blueprint-and-tools-for-Logistics-Public-Sector-and-Others",
+  "container": "ciso-industry-7-dev",
+  "volume": "ciso-industry-7-workspace",
+  "sectors": [
+    {
+      "title": "Transportation & Logistics",
+      "folder": "Transportation & Logistics",
+      "scope": "Freight, shipping, rail, supply chain management, and third-party logistics."
+    },
+    {
+      "title": "Public Sector & Government",
+      "folder": "Public Sector & Government",
+      "scope": "Federal/central, state, and municipal agencies, public infrastructure, and defense administration."
+    },
+    {
+      "title": "Education (EdTech & Academia)",
+      "folder": "Education (EdTech & Academia)",
+      "scope": "K-12 schools, higher education, vocational training, and online learning platforms."
+    },
+    {
+      "title": "Agriculture & AgTech",
+      "folder": "Agriculture & AgTech",
+      "scope": "Farming, crop science, forestry, fisheries, and agricultural machinery."
+    }
+  ]
+}
